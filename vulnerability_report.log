@@ -1,0 +1,777 @@
+{
+    "target_ip": "197.138.206.1",
+    "scan_time": "2024-11-01 13:38:51",
+    "os_detected": "Linux 3.2 - 4.14",
+    "open_ports": [
+        22,
+        80,
+        179,
+        443
+    ],
+    "vulnerabilities": [
+        {
+            "cve_id": "CVE-2024-10609",
+            "description": "A vulnerability, which was classified as critical, was found in itsourcecode Tailoring Management System Project 1.0. This affects an unknown part of the file typeadd.php. The manipulation of the argument sex leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10608",
+            "description": "A vulnerability was found in code-projects Courier Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /login.php. The manipulation of the argument txtusername leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10607",
+            "description": "A vulnerability was found in code-projects Courier Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /track-result.php. The manipulation of the argument Consignment leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10605",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /file/request.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10561",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file birdsupdate.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10557",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /file/updateprofile.php. The manipulation leads to cross-site request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10556",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file birdsadd.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10509",
+            "description": "A vulnerability, which was classified as critical, has been found in Codezips Online Institute Management System 1.0. This issue affects some unknown processing of the file /login.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10507",
+            "description": "A vulnerability classified as critical was found in Codezips Free Exam Hall Seating Management System 1.0. This vulnerability affects unknown code of the file /login.php. The manipulation of the argument email leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10506",
+            "description": "A vulnerability classified as critical has been found in code-projects Blood Bank System 1.0. This affects an unknown part of the file /admin/blood/update/B-.php. The manipulation of the argument Bloodname leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10450",
+            "description": "A vulnerability has been found in SourceCodester Kortex Lite Advocate Office Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file /kortex_lite/control/edit_profile.php of the component POST Parameter Handler. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10449",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10448",
+            "description": "A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10447",
+            "description": "A vulnerability classified as critical was found in Project Worlds Online Time Table Generator 1.0. Affected by this vulnerability is an unknown functionality of the file /timetable/staff/staffdashboard.php?info=updateprofile. The manipulation of the argument n leads to sql injection. The attack can be launched remotely."
+        },
+        {
+            "cve_id": "CVE-2024-10446",
+            "description": "A vulnerability classified as critical has been found in Project Worlds Online Time Table Generator 1.0. Affected is an unknown function of the file /timetable/admin/admindashboard.php?info=add_course. The manipulation of the argument c leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10435",
+            "description": "A vulnerability was found in didi Super-Jacoco 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /cov/triggerEnvCov. The manipulation of the argument uuid leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10433",
+            "description": "A vulnerability was found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /index.php. The manipulation of the argument Name/Comment leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions different parameters to be affected which do not correlate with the screenshots of a successful attack."
+        },
+        {
+            "cve_id": "CVE-2024-10432",
+            "description": "A vulnerability has been found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /index.php. The manipulation of the argument username leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10431",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file /deletebird.php. The manipulation of the argument t1 leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10430",
+            "description": "A vulnerability, which was classified as critical, has been found in Codezips Pet Shop Management System 1.0. This issue affects some unknown processing of the file /animalsupdate.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10427",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /deleteanimal.php. The manipulation of the argument t1 leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"t1\"."
+        },
+        {
+            "cve_id": "CVE-2024-10426",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file /animalsadd.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"id\"."
+        },
+        {
+            "cve_id": "CVE-2024-10425",
+            "description": "A vulnerability was found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /student/project_selection/move_up_project.php of the component Project Selection Page. The manipulation of the argument up leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10424",
+            "description": "A vulnerability has been found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /student/project_selection/remove_project.php of the component Project Selection Page. The manipulation of the argument no leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10423",
+            "description": "A vulnerability, which was classified as critical, was found in Project Worlds Student Project Allocation System 1.0. Affected is an unknown function of the file /student/project_selection/project_selection.php of the component Project Selection Page. The manipulation of the argument project_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10422",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Attendance and Payroll System 1.0. This issue affects some unknown processing of the file /admin/overtime_add.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10421",
+            "description": "A vulnerability classified as critical was found in SourceCodester Attendance and Payroll System 1.0. This vulnerability affects unknown code of the file /admin/overtime_row.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10419",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /bloodrequest.php. The manipulation of the argument msg leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10418",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /file/infoAdd.php. The manipulation of the argument bg leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10417",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /file/delete.php. The manipulation of the argument bid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10416",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0 and classified as critical. This issue affects some unknown processing of the file /file/cancel.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10415",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10414",
+            "description": "A vulnerability, which was classified as problematic, was found in PHPGurukul Vehicle Record System 1.0. This affects an unknown part of the file /admin/edit-brand.php. The manipulation of the argument Brand Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"phone_number\" to be affected. But this might be a mistake because the textbox field label is \"Brand Name\"."
+        },
+        {
+            "cve_id": "CVE-2024-10409",
+            "description": "A vulnerability was found in code-projects Blood Bank Management 1.0 and classified as critical. This issue affects some unknown processing of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10408",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management up to 1.0 and classified as critical. This vulnerability affects unknown code of the file /abs.php. The manipulation of the argument search leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10407",
+            "description": "A vulnerability, which was classified as critical, was found in SourceCodester Petrol Pump Management Software 1.0. This affects an unknown part of the file /admin/edit_customer.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10406",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/edit_fuel.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10380",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/ajax_product.php. The manipulation of the argument drop_services leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10370",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /addcustind.php. The manipulation of the argument refno leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10369",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /addcustcom.php. The manipulation of the argument refno leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10368",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /addstock.php. The manipulation of the argument prodtype leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10355",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/invoice.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10354",
+            "description": "A vulnerability classified as critical was found in SourceCodester Petrol Pump Management Software 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/print.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10353",
+            "description": "A vulnerability classified as critical has been found in SourceCodester Online Exam System 1.0. Affected is an unknown function of the file /admin-dashboard. The manipulation leads to improper access controls. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. This affects a different product and is a different issue than CVE-2024-40480."
+        },
+        {
+            "cve_id": "CVE-2024-10350",
+            "description": "A vulnerability was found in code-projects Hospital Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /admin/add-doctor.php. The manipulation of the argument docname leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10348",
+            "description": "A vulnerability was found in SourceCodester Best House Rental Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /index.php?page=tenants of the component Manage Tenant Details. The manipulation of the argument Last Name/First Name/Middle Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only shows the field \"Last Name\" to be affected. Other fields might be affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10338",
+            "description": "A vulnerability classified as critical was found in SourceCodeHero Clothes Recommendation System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/home.php. The manipulation of the argument view/view1 leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10337",
+            "description": "A vulnerability classified as critical has been found in SourceCodeHero Clothes Recommendation System 1.0. Affected is an unknown function of the file /admin/home.php?con=add. The manipulation of the argument cat/subcat/ t1/t2/text leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10336",
+            "description": "A vulnerability was found in SourceCodeHero Clothes Recommendation System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /admin/index.php of the component Admin Login Page. The manipulation of the argument t1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10335",
+            "description": "A vulnerability was found in SourceCodester Garbage Collection Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username/password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"username\" to be affected. But it must be assumed that the parameter \"password\" is affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10331",
+            "description": "A vulnerability, which was classified as critical, has been found in PHPGurukul Vehicle Record System 1.0. This issue affects some unknown processing of the file /admin/search-vehicle.php. The manipulation of the argument searchinputdata leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10301",
+            "description": "A vulnerability, which was classified as critical, was found in PHPGurukul Medical Card Generation System 1.0. Affected is an unknown function of the file /admin/search-medicalcard.php of the component Search. The manipulation of the argument searchdata leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10300",
+            "description": "A vulnerability, which was classified as critical, has been found in PHPGurukul Medical Card Generation System 1.0. This issue affects some unknown processing of the file /admin/view-enquiry.php of the component View Enquiry Page. The manipulation of the argument viewid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10299",
+            "description": "A vulnerability classified as critical was found in PHPGurukul Medical Card Generation System 1.0. This vulnerability affects unknown code of the file /admin/view-card-detail.php of the component Managecard View Detail Page. The manipulation of the argument viewid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10298",
+            "description": "A vulnerability classified as critical has been found in PHPGurukul Medical Card Generation System 1.0. This affects an unknown part of the file /admin/edit-card-detail.php of the component Managecard Edit Card Detail Page. The manipulation of the argument editid leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10297",
+            "description": "A vulnerability was found in PHPGurukul Medical Card Generation System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /admin/changeimage.php of the component Managecard Edit Image Page. The manipulation of the argument editid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10296",
+            "description": "A vulnerability was found in PHPGurukul Medical Card Generation System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /admin/card-bwdates-reports-details.php of the component Report of Medical Card Page. The manipulation of the argument fromdate/todate leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10121",
+            "description": "A vulnerability was found in wfh45678 Radar up to 1.0.8 and classified as critical. This issue affects some unknown processing of the component Interface Handler. The manipulation with the input /../ leads to authorization bypass. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. This appears not to be a path traversal weakness. The vendor was contacted early about this disclosure but did not respond in any way."
+        },
+        {
+            "cve_id": "CVE-2024-10120",
+            "description": "A vulnerability has been found in wfh45678 Radar up to 1.0.8 and classified as critical. This vulnerability affects unknown code of the file /services/v1/common/upload. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way."
+        },
+        {
+            "cve_id": "CVE-2024-0726",
+            "description": "A vulnerability was found in Project Worlds Student Project Allocation System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file admin_login.php of the component Admin Login Module. The manipulation of the argument msg with the input test%22%3Cscript%3Ealert(%27Torada%27)%3C/script%3E leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-251549 was assigned to this vulnerability."
+        },
+        {
+            "cve_id": "CVE-2024-0472",
+            "description": "A vulnerability was found in code-projects Dormitory Management System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file modifyuser.php. The manipulation of the argument mname leads to information disclosure. The exploit has been disclosed to the public and may be used. The identifier VDB-250577 was assigned to this vulnerability."
+        },
+        {
+            "cve_id": "CVE-2022-48970",
+            "description": "In the Linux kernel, the following vulnerability has been resolved:\n\naf_unix: Get user_ns from in_skb in unix_diag_get_exact().\n\nWei Chen reported a NULL deref in sk_user_ns() [0][1], and Paolo diagnosed\nthe root cause: in unix_diag_get_exact(), the newly allocated skb does not\nhave sk. [2]\n\nWe must get the user_ns from the NETLINK_CB(in_skb).sk and pass it to\nsk_diag_fill().\n\n[0]:\nBUG: kernel NULL pointer dereference, address: 0000000000000270\n#PF: supervisor read access in kernel mode\n#PF: error_code(0x0000) - not-present page\nPGD 12bbce067 P4D 12bbce067 PUD 12bc40067 PMD 0\nOops: 0000 [#1] PREEMPT SMP\nCPU: 0 PID: 27942 Comm: syz-executor.0 Not tainted 6.1.0-rc5-next-20221118 #2\nHardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS\nrel-1.13.0-48-gd9c812dda519-prebuilt.qemu.org 04/01/2014\nRIP: 0010:sk_user_ns include/net/sock.h:920 [inline]\nRIP: 0010:sk_diag_dump_uid net/unix/diag.c:119 [inline]\nRIP: 0010:sk_diag_fill+0x77d/0x890 net/unix/diag.c:170\nCode: 89 ef e8 66 d4 2d fd c7 44 24 40 00 00 00 00 49 8d 7c 24 18 e8\n54 d7 2d fd 49 8b 5c 24 18 48 8d bb 70 02 00 00 e8 43 d7 2d fd <48> 8b\n9b 70 02 00 00 48 8d 7b 10 e8 33 d7 2d fd 48 8b 5b 10 48 8d\nRSP: 0018:ffffc90000d67968 EFLAGS: 00010246\nRAX: ffff88812badaa48 RBX: 0000000000000000 RCX: ffffffff840d481d\nRDX: 0000000000000465 RSI: 0000000000000000 RDI: 0000000000000270\nRBP: ffffc90000d679a8 R08: 0000000000000277 R09: 0000000000000000\nR10: 0001ffffffffffff R11: 0001c90000d679a8 R12: ffff88812ac03800\nR13: ffff88812c87c400 R14: ffff88812ae42210 R15: ffff888103026940\nFS:  00007f08b4e6f700(0000) GS:ffff88813bc00000(0000) knlGS:0000000000000000\nCS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033\nCR2: 0000000000000270 CR3: 000000012c58b000 CR4: 00000000003506f0\nDR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000\nDR3: 0000000000000000 DR6: 00000000fffe0ff0 DR7: 0000000000000400\nCall Trace:\n <TASK>\n unix_diag_get_exact net/unix/diag.c:285 [inline]\n unix_diag_handler_dump+0x3f9/0x500 net/unix/diag.c:317\n __sock_diag_cmd net/core/sock_diag.c:235 [inline]\n sock_diag_rcv_msg+0x237/0x250 net/core/sock_diag.c:266\n netlink_rcv_skb+0x13e/0x250 net/netlink/af_netlink.c:2564\n sock_diag_rcv+0x24/0x40 net/core/sock_diag.c:277\n netlink_unicast_kernel net/netlink/af_netlink.c:1330 [inline]\n netlink_unicast+0x5e9/0x6b0 net/netlink/af_netlink.c:1356\n netlink_sendmsg+0x739/0x860 net/netlink/af_netlink.c:1932\n sock_sendmsg_nosec net/socket.c:714 [inline]\n sock_sendmsg net/socket.c:734 [inline]\n ____sys_sendmsg+0x38f/0x500 net/socket.c:2476\n ___sys_sendmsg net/socket.c:2530 [inline]\n __sys_sendmsg+0x197/0x230 net/socket.c:2559\n __do_sys_sendmsg net/socket.c:2568 [inline]\n __se_sys_sendmsg net/socket.c:2566 [inline]\n __x64_sys_sendmsg+0x42/0x50 net/socket.c:2566\n do_syscall_x64 arch/x86/entry/common.c:50 [inline]\n do_syscall_64+0x2b/0x70 arch/x86/entry/common.c:80\n entry_SYSCALL_64_after_hwframe+0x63/0xcd\nRIP: 0033:0x4697f9\nCode: f7 d8 64 89 02 b8 ff ff ff ff c3 66 0f 1f 44 00 00 48 89 f8 48\n89 f7 48 89 d6 48 89 ca 4d 89 c2 4d 89 c8 4c 8b 4c 24 08 0f 05 <48> 3d\n01 f0 ff ff 73 01 c3 48 c7 c1 bc ff ff ff f7 d8 64 89 01 48\nRSP: 002b:00007f08b4e6ec48 EFLAGS: 00000246 ORIG_RAX: 000000000000002e\nRAX: ffffffffffffffda RBX: 000000000077bf80 RCX: 00000000004697f9\nRDX: 0000000000000000 RSI: 00000000200001c0 RDI: 0000000000000003\nRBP: 00000000004d29e9 R08: 0000000000000000 R09: 0000000000000000\nR10: 0000000000000000 R11: 0000000000000246 R12: 000000000077bf80\nR13: 0000000000000000 R14: 000000000077bf80 R15: 00007ffdb36bc6c0\n </TASK>\nModules linked in:\nCR2: 0000000000000270\n\n[1]: https://lore.kernel.org/netdev/CAO4mrfdvyjFpokhNsiwZiP-wpdSD0AStcJwfKcKQdAALQ9_2Qw@mail.gmail.com/\n[2]: https://lore.kernel.org/netdev/e04315e7c90d9a75613f3993c2baf2d344eef7eb.camel@redhat.com/"
+        },
+        {
+            "cve_id": "CVE-2024-49869",
+            "description": "In the Linux kernel, the following vulnerability has been resolved:\n\nbtrfs: send: fix buffer overflow detection when copying path to cache entry\n\nStarting with commit c0247d289e73 (\"btrfs: send: annotate struct\nname_cache_entry with __counted_by()\") we annotated the variable length\narray \"name\" from the name_cache_entry structure with __counted_by() to\nimprove overflow detection. However that alone was not correct, because\nthe length of that array does not match the \"name_len\" field - it matches\nthat plus 1 to include the NUL string terminator, so that makes a\nfortified kernel think there's an overflow and report a splat like this:\n\n  strcpy: detected buffer overflow: 20 byte write of buffer size 19\n  WARNING: CPU: 3 PID: 3310 at __fortify_report+0x45/0x50\n  CPU: 3 UID: 0 PID: 3310 Comm: btrfs Not tainted 6.11.0-prnet #1\n  Hardware name: CompuLab Ltd.  sbc-ihsw/Intense-PC2 (IPC2), BIOS IPC2_3.330.7 X64 03/15/2018\n  RIP: 0010:__fortify_report+0x45/0x50\n  Code: 48 8b 34 (...)\n  RSP: 0018:ffff97ebc0d6f650 EFLAGS: 00010246\n  RAX: 7749924ef60fa600 RBX: ffff8bf5446a521a RCX: 0000000000000027\n  RDX: 00000000ffffdfff RSI: ffff97ebc0d6f548 RDI: ffff8bf84e7a1cc8\n  RBP: ffff8bf548574080 R08: ffffffffa8c40e10 R09: 0000000000005ffd\n  R10: 0000000000000004 R11: ffffffffa8c70e10 R12: ffff8bf551eef400\n  R13: 0000000000000000 R14: 0000000000000013 R15: 00000000000003a8\n  FS:  00007fae144de8c0(0000) GS:ffff8bf84e780000(0000) knlGS:0000000000000000\n  CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033\n  CR2: 00007fae14691690 CR3: 00000001027a2003 CR4: 00000000001706f0\n  Call Trace:\n   <TASK>\n   ? __warn+0x12a/0x1d0\n   ? __fortify_report+0x45/0x50\n   ? report_bug+0x154/0x1c0\n   ? handle_bug+0x42/0x70\n   ? exc_invalid_op+0x1a/0x50\n   ? asm_exc_invalid_op+0x1a/0x20\n   ? __fortify_report+0x45/0x50\n   __fortify_panic+0x9/0x10\n  __get_cur_name_and_parent+0x3bc/0x3c0\n   get_cur_path+0x207/0x3b0\n   send_extent_data+0x709/0x10d0\n   ? find_parent_nodes+0x22df/0x25d0\n   ? mas_nomem+0x13/0x90\n   ? mtree_insert_range+0xa5/0x110\n   ? btrfs_lru_cache_store+0x5f/0x1e0\n   ? iterate_extent_inodes+0x52d/0x5a0\n   process_extent+0xa96/0x11a0\n   ? __pfx_lookup_backref_cache+0x10/0x10\n   ? __pfx_store_backref_cache+0x10/0x10\n   ? __pfx_iterate_backrefs+0x10/0x10\n   ? __pfx_check_extent_item+0x10/0x10\n   changed_cb+0x6fa/0x930\n   ? tree_advance+0x362/0x390\n   ? memcmp_extent_buffer+0xd7/0x160\n   send_subvol+0xf0a/0x1520\n   btrfs_ioctl_send+0x106b/0x11d0\n   ? __pfx___clone_root_cmp_sort+0x10/0x10\n   _btrfs_ioctl_send+0x1ac/0x240\n   btrfs_ioctl+0x75b/0x850\n   __se_sys_ioctl+0xca/0x150\n   do_syscall_64+0x85/0x160\n   ? __count_memcg_events+0x69/0x100\n   ? handle_mm_fault+0x1327/0x15c0\n   ? __se_sys_rt_sigprocmask+0xf1/0x180\n   ? syscall_exit_to_user_mode+0x75/0xa0\n   ? do_syscall_64+0x91/0x160\n   ? do_user_addr_fault+0x21d/0x630\n  entry_SYSCALL_64_after_hwframe+0x76/0x7e\n  RIP: 0033:0x7fae145eeb4f\n  Code: 00 48 89 (...)\n  RSP: 002b:00007ffdf1cb09b0 EFLAGS: 00000246 ORIG_RAX: 0000000000000010\n  RAX: ffffffffffffffda RBX: 0000000000000004 RCX: 00007fae145eeb4f\n  RDX: 00007ffdf1cb0ad0 RSI: 0000000040489426 RDI: 0000000000000004\n  RBP: 00000000000078fe R08: 00007fae144006c0 R09: 00007ffdf1cb0927\n  R10: 0000000000000008 R11: 0000000000000246 R12: 00007ffdf1cb1ce8\n  R13: 0000000000000003 R14: 000055c499fab2e0 R15: 0000000000000004\n   </TASK>\n\nFix this by not storing the NUL string terminator since we don't actually\nneed it for name cache entries, this way \"name_len\" corresponds to the\nactual size of the \"name\" array. This requires marking the \"name\" array\nfield with __nonstring and using memcpy() instead of strcpy() as\nrecommended by the guidelines at:\n\n   https://github.com/KSPP/linux/issues/90"
+        },
+        {
+            "cve_id": "CVE-2024-21687",
+            "description": "This High severity File Inclusion vulnerability was introduced in versions 9.0.0, 9.1.0, 9.2.0, 9.3.0, 9.4.0, 9.5.0 and 9.6.0 of Bamboo Data Center and Server.\n\nThis File Inclusion vulnerability, with a CVSS Score of 8.1, allows an authenticated attacker to get the application to display the contents of a local file, or execute a different files already stored locally on the server which has high impact to confidentiality, high impact to integrity, no impact to availability, and requires no user interaction.\n\nAtlassian recommends that Bamboo Data Center and Server customers upgrade to latest version, if you are unable to do so, upgrade your instance to one of the specified supported fixed versions listed on this CVE\n\nSee the release notes (https://confluence.atlassian.com/bambooreleases/bamboo-release-notes-1189793869.html). You can download the latest version of Bamboo Data Center and Server from the download center (https://www.atlassian.com/software/bamboo/download-archives).\n\nThis vulnerability was reported via our Bug Bounty program."
+        },
+        {
+            "cve_id": "CVE-2024-21678",
+            "description": "This High severity Stored XSS vulnerability was introduced in version 2.7.0 of Confluence Data Center.\r\n\r\nThis Stored XSS vulnerability, with a CVSS Score of 8.5, allows an authenticated attacker to execute arbitrary HTML or JavaScript code on a victims browser which has high impact to confidentiality, low impact to integrity, no impact to availability, and requires no user interaction.\r\nData Center\r\n\r\nAtlassian recommends that Confluence Data Center customers upgrade to the latest version. If you are unable to do so, upgrade your instance to one of the specified supported fixed versions:\r\n||Affected versions||Fixed versions||\r\n|from 8.7.0 to 8.7.1|8.8.0 recommended or 8.7.2|\r\n|from 8.6.0 to 8.6.1|8.8.0 recommended|\r\n|from 8.5.0 to 8.5.4 LTS|8.8.0 recommended or 8.5.5 LTS or 8.5.6 LTS|\r\n|from 8.4.0 to 8.4.5|8.8.0 recommended or 8.5.6 LTS|\r\n|from 8.3.0 to 8.3.4|8.8.0 recommended or 8.5.6 LTS|\r\n|from 8.2.0 to 8.2.3|8.8.0 recommended or 8.5.6 LTS|\r\n|from 8.1.0 to 8.1.4|8.8.0 recommended or 8.5.6 LTS|\r\n|from 8.0.0 to 8.0.4|8.8.0 recommended or 8.5.6 LTS|\r\n|from 7.20.0 to 7.20.3|8.8.0 recommended or 8.5.6 LTS|\r\n|from 7.19.0 to 7.19.17 LTS|8.8.0 recommended or 8.5.6 LTS or 7.19.18 LTS or 7.19.19 LTS|\r\n|from 7.18.0 to 7.18.3|8.8.0 recommended or 8.5.6 LTS or 7.19.19 LTS|\r\n|from 7.17.0 to 7.17.5|8.8.0 recommended or 8.5.6 LTS or 7.19.19 LTS|\r\n|Any earlier versions|8.8.0 recommended or 8.5.6 LTS or 7.19.19 LTS|\r\nServer\r\n\r\nAtlassian recommends that Confluence Server customers upgrade to the latest 8.5.x LTS version. If you are unable to do so, upgrade your instance to one of the specified supported fixed versions:\r\n\r\n\u00a0\r\n||Affected versions||Fixed versions||\r\n|from 8.5.0 to 8.5.4 LTS|8.5.5 LTS or 8.5.6 LTS recommended\u00a0|\r\n|from 8.4.0 to 8.4.5|8.5.6 LTS recommended|\r\n|from 8.3.0 to 8.3.4|8.5.6 LTS recommended|\r\n|from 8.2.0 to 8.2.3|8.5.6 LTS recommended|\r\n|from 8.1.0 to 8.1.4|8.5.6 LTS recommended|\r\n|from 8.0.0 to 8.0.4|8.5.6 LTS recommended|\r\n|from 7.20.0 to 7.20.3|8.5.6 LTS recommended|\r\n|from 7.19.0 to 7.19.17 LTS|8.5.6 LTS recommended or 7.19.18 LTS or 7.19.19 LTS|\r\n|from 7.18.0 to 7.18.3|8.5.6 LTS recommended or 7.19.19 LTS|\r\n|from 7.17.0 to 7.17.5|8.5.6 LTS recommended or 7.19.19 LTS|\r\n|Any earlier versions|8.5.6 LTS recommended or 7.19.19 LTS|\r\n\r\nSee the release notes ([https://confluence.atlassian.com/doc/confluence-release-notes-327.html]). You can download the latest version of Confluence Data Center from the download center ([https://www.atlassian.com/software/confluence/download-archives]).\r\n\r\nThis vulnerability was reported via our Bug Bounty program."
+        },
+        {
+            "cve_id": "CVE-2023-47455",
+            "description": "Tenda AX1806 V1.0.0.1 contains a heap overflow vulnerability in setSchedWifi function, in which the src and v12 are directly obtained from http request parameter schedStartTime and schedEndTime without checking their size."
+        },
+        {
+            "cve_id": "CVE-2022-0540",
+            "description": "A vulnerability in Jira Seraph allows a remote, unauthenticated attacker to bypass authentication by sending a specially crafted HTTP request. This affects Atlassian Jira Server and Data Center versions before 8.13.18, versions 8.14.0 and later before 8.20.6, and versions 8.21.0 and later before 8.22.0. This also affects Atlassian Jira Service Management Server and Data Center versions before 4.13.18, versions 4.14.0 and later before 4.20.6, and versions 4.21.0 and later before 4.22.0."
+        },
+        {
+            "cve_id": "CVE-2018-13382",
+            "description": "An Improper Authorization vulnerability in Fortinet FortiOS 6.0.0 to 6.0.4, 5.6.0 to 5.6.8 and 5.4.1 to 5.4.10 and FortiProxy 2.0.0, 1.2.0 to 1.2.8, 1.1.0 to 1.1.6, 1.0.0 to 1.0.7 under SSL VPN web portal allows an unauthenticated attacker to modify the password of an SSL VPN web portal user via specially crafted HTTP requests"
+        },
+        {
+            "cve_id": "CVE-2018-13379",
+            "description": "An Improper Limitation of a Pathname to a Restricted Directory (\"Path Traversal\") in Fortinet FortiOS 6.0.0 to 6.0.4, 5.6.3 to 5.6.7 and 5.4.6 to 5.4.12 and FortiProxy 2.0.0, 1.2.0 to 1.2.8, 1.1.0 to 1.1.6, 1.0.0 to 1.0.7 under SSL VPN web portal allows an unauthenticated attacker to download system files via special crafted HTTP resource requests."
+        },
+        {
+            "cve_id": "CVE-2024-10609",
+            "description": "A vulnerability, which was classified as critical, was found in itsourcecode Tailoring Management System Project 1.0. This affects an unknown part of the file typeadd.php. The manipulation of the argument sex leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10608",
+            "description": "A vulnerability was found in code-projects Courier Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /login.php. The manipulation of the argument txtusername leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10607",
+            "description": "A vulnerability was found in code-projects Courier Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /track-result.php. The manipulation of the argument Consignment leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10605",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /file/request.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10561",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file birdsupdate.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10557",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /file/updateprofile.php. The manipulation leads to cross-site request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10556",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file birdsadd.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10509",
+            "description": "A vulnerability, which was classified as critical, has been found in Codezips Online Institute Management System 1.0. This issue affects some unknown processing of the file /login.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10507",
+            "description": "A vulnerability classified as critical was found in Codezips Free Exam Hall Seating Management System 1.0. This vulnerability affects unknown code of the file /login.php. The manipulation of the argument email leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10506",
+            "description": "A vulnerability classified as critical has been found in code-projects Blood Bank System 1.0. This affects an unknown part of the file /admin/blood/update/B-.php. The manipulation of the argument Bloodname leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10450",
+            "description": "A vulnerability has been found in SourceCodester Kortex Lite Advocate Office Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file /kortex_lite/control/edit_profile.php of the component POST Parameter Handler. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10449",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10448",
+            "description": "A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10447",
+            "description": "A vulnerability classified as critical was found in Project Worlds Online Time Table Generator 1.0. Affected by this vulnerability is an unknown functionality of the file /timetable/staff/staffdashboard.php?info=updateprofile. The manipulation of the argument n leads to sql injection. The attack can be launched remotely."
+        },
+        {
+            "cve_id": "CVE-2024-10446",
+            "description": "A vulnerability classified as critical has been found in Project Worlds Online Time Table Generator 1.0. Affected is an unknown function of the file /timetable/admin/admindashboard.php?info=add_course. The manipulation of the argument c leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10435",
+            "description": "A vulnerability was found in didi Super-Jacoco 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /cov/triggerEnvCov. The manipulation of the argument uuid leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10433",
+            "description": "A vulnerability was found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /index.php. The manipulation of the argument Name/Comment leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions different parameters to be affected which do not correlate with the screenshots of a successful attack."
+        },
+        {
+            "cve_id": "CVE-2024-10432",
+            "description": "A vulnerability has been found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /index.php. The manipulation of the argument username leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10431",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file /deletebird.php. The manipulation of the argument t1 leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10430",
+            "description": "A vulnerability, which was classified as critical, has been found in Codezips Pet Shop Management System 1.0. This issue affects some unknown processing of the file /animalsupdate.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10427",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /deleteanimal.php. The manipulation of the argument t1 leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"t1\"."
+        },
+        {
+            "cve_id": "CVE-2024-10426",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file /animalsadd.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"id\"."
+        },
+        {
+            "cve_id": "CVE-2024-10425",
+            "description": "A vulnerability was found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /student/project_selection/move_up_project.php of the component Project Selection Page. The manipulation of the argument up leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10424",
+            "description": "A vulnerability has been found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /student/project_selection/remove_project.php of the component Project Selection Page. The manipulation of the argument no leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10423",
+            "description": "A vulnerability, which was classified as critical, was found in Project Worlds Student Project Allocation System 1.0. Affected is an unknown function of the file /student/project_selection/project_selection.php of the component Project Selection Page. The manipulation of the argument project_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10422",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Attendance and Payroll System 1.0. This issue affects some unknown processing of the file /admin/overtime_add.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10421",
+            "description": "A vulnerability classified as critical was found in SourceCodester Attendance and Payroll System 1.0. This vulnerability affects unknown code of the file /admin/overtime_row.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10419",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /bloodrequest.php. The manipulation of the argument msg leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10418",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /file/infoAdd.php. The manipulation of the argument bg leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10417",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /file/delete.php. The manipulation of the argument bid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10416",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0 and classified as critical. This issue affects some unknown processing of the file /file/cancel.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10415",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10414",
+            "description": "A vulnerability, which was classified as problematic, was found in PHPGurukul Vehicle Record System 1.0. This affects an unknown part of the file /admin/edit-brand.php. The manipulation of the argument Brand Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"phone_number\" to be affected. But this might be a mistake because the textbox field label is \"Brand Name\"."
+        },
+        {
+            "cve_id": "CVE-2024-10409",
+            "description": "A vulnerability was found in code-projects Blood Bank Management 1.0 and classified as critical. This issue affects some unknown processing of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10408",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management up to 1.0 and classified as critical. This vulnerability affects unknown code of the file /abs.php. The manipulation of the argument search leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10407",
+            "description": "A vulnerability, which was classified as critical, was found in SourceCodester Petrol Pump Management Software 1.0. This affects an unknown part of the file /admin/edit_customer.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10406",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/edit_fuel.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10380",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/ajax_product.php. The manipulation of the argument drop_services leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10370",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /addcustind.php. The manipulation of the argument refno leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10369",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /addcustcom.php. The manipulation of the argument refno leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10368",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /addstock.php. The manipulation of the argument prodtype leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10355",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/invoice.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10354",
+            "description": "A vulnerability classified as critical was found in SourceCodester Petrol Pump Management Software 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/print.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10353",
+            "description": "A vulnerability classified as critical has been found in SourceCodester Online Exam System 1.0. Affected is an unknown function of the file /admin-dashboard. The manipulation leads to improper access controls. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. This affects a different product and is a different issue than CVE-2024-40480."
+        },
+        {
+            "cve_id": "CVE-2024-10350",
+            "description": "A vulnerability was found in code-projects Hospital Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /admin/add-doctor.php. The manipulation of the argument docname leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10348",
+            "description": "A vulnerability was found in SourceCodester Best House Rental Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /index.php?page=tenants of the component Manage Tenant Details. The manipulation of the argument Last Name/First Name/Middle Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only shows the field \"Last Name\" to be affected. Other fields might be affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10338",
+            "description": "A vulnerability classified as critical was found in SourceCodeHero Clothes Recommendation System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/home.php. The manipulation of the argument view/view1 leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10337",
+            "description": "A vulnerability classified as critical has been found in SourceCodeHero Clothes Recommendation System 1.0. Affected is an unknown function of the file /admin/home.php?con=add. The manipulation of the argument cat/subcat/ t1/t2/text leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10336",
+            "description": "A vulnerability was found in SourceCodeHero Clothes Recommendation System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /admin/index.php of the component Admin Login Page. The manipulation of the argument t1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10335",
+            "description": "A vulnerability was found in SourceCodester Garbage Collection Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username/password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"username\" to be affected. But it must be assumed that the parameter \"password\" is affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10331",
+            "description": "A vulnerability, which was classified as critical, has been found in PHPGurukul Vehicle Record System 1.0. This issue affects some unknown processing of the file /admin/search-vehicle.php. The manipulation of the argument searchinputdata leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10301",
+            "description": "A vulnerability, which was classified as critical, was found in PHPGurukul Medical Card Generation System 1.0. Affected is an unknown function of the file /admin/search-medicalcard.php of the component Search. The manipulation of the argument searchdata leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10300",
+            "description": "A vulnerability, which was classified as critical, has been found in PHPGurukul Medical Card Generation System 1.0. This issue affects some unknown processing of the file /admin/view-enquiry.php of the component View Enquiry Page. The manipulation of the argument viewid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10299",
+            "description": "A vulnerability classified as critical was found in PHPGurukul Medical Card Generation System 1.0. This vulnerability affects unknown code of the file /admin/view-card-detail.php of the component Managecard View Detail Page. The manipulation of the argument viewid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10298",
+            "description": "A vulnerability classified as critical has been found in PHPGurukul Medical Card Generation System 1.0. This affects an unknown part of the file /admin/edit-card-detail.php of the component Managecard Edit Card Detail Page. The manipulation of the argument editid leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10297",
+            "description": "A vulnerability was found in PHPGurukul Medical Card Generation System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /admin/changeimage.php of the component Managecard Edit Image Page. The manipulation of the argument editid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10296",
+            "description": "A vulnerability was found in PHPGurukul Medical Card Generation System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /admin/card-bwdates-reports-details.php of the component Report of Medical Card Page. The manipulation of the argument fromdate/todate leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10121",
+            "description": "A vulnerability was found in wfh45678 Radar up to 1.0.8 and classified as critical. This issue affects some unknown processing of the component Interface Handler. The manipulation with the input /../ leads to authorization bypass. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. This appears not to be a path traversal weakness. The vendor was contacted early about this disclosure but did not respond in any way."
+        },
+        {
+            "cve_id": "CVE-2024-10120",
+            "description": "A vulnerability has been found in wfh45678 Radar up to 1.0.8 and classified as critical. This vulnerability affects unknown code of the file /services/v1/common/upload. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way."
+        },
+        {
+            "cve_id": "CVE-2024-0726",
+            "description": "A vulnerability was found in Project Worlds Student Project Allocation System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file admin_login.php of the component Admin Login Module. The manipulation of the argument msg with the input test%22%3Cscript%3Ealert(%27Torada%27)%3C/script%3E leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-251549 was assigned to this vulnerability."
+        },
+        {
+            "cve_id": "CVE-2024-0472",
+            "description": "A vulnerability was found in code-projects Dormitory Management System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file modifyuser.php. The manipulation of the argument mname leads to information disclosure. The exploit has been disclosed to the public and may be used. The identifier VDB-250577 was assigned to this vulnerability."
+        },
+        {
+            "cve_id": "CVE-2024-10609",
+            "description": "A vulnerability, which was classified as critical, was found in itsourcecode Tailoring Management System Project 1.0. This affects an unknown part of the file typeadd.php. The manipulation of the argument sex leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10608",
+            "description": "A vulnerability was found in code-projects Courier Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /login.php. The manipulation of the argument txtusername leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10607",
+            "description": "A vulnerability was found in code-projects Courier Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /track-result.php. The manipulation of the argument Consignment leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10605",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /file/request.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10561",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file birdsupdate.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10557",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /file/updateprofile.php. The manipulation leads to cross-site request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10556",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file birdsadd.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10509",
+            "description": "A vulnerability, which was classified as critical, has been found in Codezips Online Institute Management System 1.0. This issue affects some unknown processing of the file /login.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10507",
+            "description": "A vulnerability classified as critical was found in Codezips Free Exam Hall Seating Management System 1.0. This vulnerability affects unknown code of the file /login.php. The manipulation of the argument email leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10506",
+            "description": "A vulnerability classified as critical has been found in code-projects Blood Bank System 1.0. This affects an unknown part of the file /admin/blood/update/B-.php. The manipulation of the argument Bloodname leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10450",
+            "description": "A vulnerability has been found in SourceCodester Kortex Lite Advocate Office Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file /kortex_lite/control/edit_profile.php of the component POST Parameter Handler. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10449",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10448",
+            "description": "A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10447",
+            "description": "A vulnerability classified as critical was found in Project Worlds Online Time Table Generator 1.0. Affected by this vulnerability is an unknown functionality of the file /timetable/staff/staffdashboard.php?info=updateprofile. The manipulation of the argument n leads to sql injection. The attack can be launched remotely."
+        },
+        {
+            "cve_id": "CVE-2024-10446",
+            "description": "A vulnerability classified as critical has been found in Project Worlds Online Time Table Generator 1.0. Affected is an unknown function of the file /timetable/admin/admindashboard.php?info=add_course. The manipulation of the argument c leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10435",
+            "description": "A vulnerability was found in didi Super-Jacoco 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /cov/triggerEnvCov. The manipulation of the argument uuid leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10433",
+            "description": "A vulnerability was found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /index.php. The manipulation of the argument Name/Comment leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions different parameters to be affected which do not correlate with the screenshots of a successful attack."
+        },
+        {
+            "cve_id": "CVE-2024-10432",
+            "description": "A vulnerability has been found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /index.php. The manipulation of the argument username leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10431",
+            "description": "A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file /deletebird.php. The manipulation of the argument t1 leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10430",
+            "description": "A vulnerability, which was classified as critical, has been found in Codezips Pet Shop Management System 1.0. This issue affects some unknown processing of the file /animalsupdate.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10427",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /deleteanimal.php. The manipulation of the argument t1 leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"t1\"."
+        },
+        {
+            "cve_id": "CVE-2024-10426",
+            "description": "A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file /animalsadd.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"id\"."
+        },
+        {
+            "cve_id": "CVE-2024-10425",
+            "description": "A vulnerability was found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /student/project_selection/move_up_project.php of the component Project Selection Page. The manipulation of the argument up leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10424",
+            "description": "A vulnerability has been found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /student/project_selection/remove_project.php of the component Project Selection Page. The manipulation of the argument no leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10423",
+            "description": "A vulnerability, which was classified as critical, was found in Project Worlds Student Project Allocation System 1.0. Affected is an unknown function of the file /student/project_selection/project_selection.php of the component Project Selection Page. The manipulation of the argument project_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10422",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Attendance and Payroll System 1.0. This issue affects some unknown processing of the file /admin/overtime_add.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10421",
+            "description": "A vulnerability classified as critical was found in SourceCodester Attendance and Payroll System 1.0. This vulnerability affects unknown code of the file /admin/overtime_row.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10419",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /bloodrequest.php. The manipulation of the argument msg leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10418",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /file/infoAdd.php. The manipulation of the argument bg leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10417",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /file/delete.php. The manipulation of the argument bid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10416",
+            "description": "A vulnerability was found in code-projects Blood Bank Management System 1.0 and classified as critical. This issue affects some unknown processing of the file /file/cancel.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10415",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10414",
+            "description": "A vulnerability, which was classified as problematic, was found in PHPGurukul Vehicle Record System 1.0. This affects an unknown part of the file /admin/edit-brand.php. The manipulation of the argument Brand Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"phone_number\" to be affected. But this might be a mistake because the textbox field label is \"Brand Name\"."
+        },
+        {
+            "cve_id": "CVE-2024-10409",
+            "description": "A vulnerability was found in code-projects Blood Bank Management 1.0 and classified as critical. This issue affects some unknown processing of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10408",
+            "description": "A vulnerability has been found in code-projects Blood Bank Management up to 1.0 and classified as critical. This vulnerability affects unknown code of the file /abs.php. The manipulation of the argument search leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10407",
+            "description": "A vulnerability, which was classified as critical, was found in SourceCodester Petrol Pump Management Software 1.0. This affects an unknown part of the file /admin/edit_customer.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10406",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/edit_fuel.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10380",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/ajax_product.php. The manipulation of the argument drop_services leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10370",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /addcustind.php. The manipulation of the argument refno leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10369",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /addcustcom.php. The manipulation of the argument refno leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10368",
+            "description": "A vulnerability was found in Codezips Sales Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /addstock.php. The manipulation of the argument prodtype leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10355",
+            "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/invoice.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10354",
+            "description": "A vulnerability classified as critical was found in SourceCodester Petrol Pump Management Software 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/print.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10353",
+            "description": "A vulnerability classified as critical has been found in SourceCodester Online Exam System 1.0. Affected is an unknown function of the file /admin-dashboard. The manipulation leads to improper access controls. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. This affects a different product and is a different issue than CVE-2024-40480."
+        },
+        {
+            "cve_id": "CVE-2024-10350",
+            "description": "A vulnerability was found in code-projects Hospital Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /admin/add-doctor.php. The manipulation of the argument docname leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10348",
+            "description": "A vulnerability was found in SourceCodester Best House Rental Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /index.php?page=tenants of the component Manage Tenant Details. The manipulation of the argument Last Name/First Name/Middle Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only shows the field \"Last Name\" to be affected. Other fields might be affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10338",
+            "description": "A vulnerability classified as critical was found in SourceCodeHero Clothes Recommendation System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/home.php. The manipulation of the argument view/view1 leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10337",
+            "description": "A vulnerability classified as critical has been found in SourceCodeHero Clothes Recommendation System 1.0. Affected is an unknown function of the file /admin/home.php?con=add. The manipulation of the argument cat/subcat/ t1/t2/text leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10336",
+            "description": "A vulnerability was found in SourceCodeHero Clothes Recommendation System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /admin/index.php of the component Admin Login Page. The manipulation of the argument t1 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10335",
+            "description": "A vulnerability was found in SourceCodester Garbage Collection Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username/password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"username\" to be affected. But it must be assumed that the parameter \"password\" is affected as well."
+        },
+        {
+            "cve_id": "CVE-2024-10331",
+            "description": "A vulnerability, which was classified as critical, has been found in PHPGurukul Vehicle Record System 1.0. This issue affects some unknown processing of the file /admin/search-vehicle.php. The manipulation of the argument searchinputdata leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10301",
+            "description": "A vulnerability, which was classified as critical, was found in PHPGurukul Medical Card Generation System 1.0. Affected is an unknown function of the file /admin/search-medicalcard.php of the component Search. The manipulation of the argument searchdata leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10300",
+            "description": "A vulnerability, which was classified as critical, has been found in PHPGurukul Medical Card Generation System 1.0. This issue affects some unknown processing of the file /admin/view-enquiry.php of the component View Enquiry Page. The manipulation of the argument viewid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10299",
+            "description": "A vulnerability classified as critical was found in PHPGurukul Medical Card Generation System 1.0. This vulnerability affects unknown code of the file /admin/view-card-detail.php of the component Managecard View Detail Page. The manipulation of the argument viewid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10298",
+            "description": "A vulnerability classified as critical has been found in PHPGurukul Medical Card Generation System 1.0. This affects an unknown part of the file /admin/edit-card-detail.php of the component Managecard Edit Card Detail Page. The manipulation of the argument editid leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10297",
+            "description": "A vulnerability was found in PHPGurukul Medical Card Generation System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /admin/changeimage.php of the component Managecard Edit Image Page. The manipulation of the argument editid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10296",
+            "description": "A vulnerability was found in PHPGurukul Medical Card Generation System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /admin/card-bwdates-reports-details.php of the component Report of Medical Card Page. The manipulation of the argument fromdate/todate leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used."
+        },
+        {
+            "cve_id": "CVE-2024-10121",
+            "description": "A vulnerability was found in wfh45678 Radar up to 1.0.8 and classified as critical. This issue affects some unknown processing of the component Interface Handler. The manipulation with the input /../ leads to authorization bypass. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. This appears not to be a path traversal weakness. The vendor was contacted early about this disclosure but did not respond in any way."
+        },
+        {
+            "cve_id": "CVE-2024-10120",
+            "description": "A vulnerability has been found in wfh45678 Radar up to 1.0.8 and classified as critical. This vulnerability affects unknown code of the file /services/v1/common/upload. The manipulation of the argument file leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way."
+        },
+        {
+            "cve_id": "CVE-2024-0726",
+            "description": "A vulnerability was found in Project Worlds Student Project Allocation System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file admin_login.php of the component Admin Login Module. The manipulation of the argument msg with the input test%22%3Cscript%3Ealert(%27Torada%27)%3C/script%3E leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-251549 was assigned to this vulnerability."
+        },
+        {
+            "cve_id": "CVE-2024-0472",
+            "description": "A vulnerability was found in code-projects Dormitory Management System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file modifyuser.php. The manipulation of the argument mname leads to information disclosure. The exploit has been disclosed to the public and may be used. The identifier VDB-250577 was assigned to this vulnerability."
+        }
+    ]
+}
